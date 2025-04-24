@@ -9,35 +9,27 @@
 - AI를 활용하여 최적의 발송 시한을 예측하고, 슬랙을 통해 허브 담당자에게 실시간 알림을 제공합니다.
 
 ## 프로젝트 소개
-### 아키텍처
-![6](https://github.com/user-attachments/assets/56418738-b4c9-4390-8b1e-13c528a98c7d)
 
-### 커뮤니케이션
-![8](https://github.com/user-attachments/assets/b43822c8-b389-4c30-8024-8c0cba7e9288)
+![슬라이드1](https://github.com/user-attachments/assets/e82e9044-b411-4505-87d9-2230b1ded5bd)
+![슬라이드2](https://github.com/user-attachments/assets/cdd84d24-64f0-4fac-aca5-f0cb634af4a8)
+![슬라이드3](https://github.com/user-attachments/assets/830a5de5-8b7b-4a69-9f68-0a81fd7e2596)
+![슬라이드4](https://github.com/user-attachments/assets/d0732793-1c2c-40cf-b3e6-f4cbe02ac484)
+![슬라이드5](https://github.com/user-attachments/assets/74ab37bd-361a-44b3-b5b2-74a7698c66d6)
+![슬라이드6](https://github.com/user-attachments/assets/c2e754dd-35f9-4589-bffd-09357504b117)
+![슬라이드7](https://github.com/user-attachments/assets/899b5cc8-af7b-4d5e-8a78-5958c5f11f4d)
+![슬라이드8](https://github.com/user-attachments/assets/3b940e50-bbda-4dce-8dca-855a9757b64b)
+![슬라이드9](https://github.com/user-attachments/assets/46c30c2c-6155-404e-8052-15dab6f070f5)
+![슬라이드10](https://github.com/user-attachments/assets/5b3ec200-192e-487a-82fb-6d04928790b2)
+![슬라이드11](https://github.com/user-attachments/assets/aec46430-fc36-41ad-9644-09337fd37ecf)
+![슬라이드12](https://github.com/user-attachments/assets/4ca48403-909b-4344-bd29-d14be3286e89)
+![슬라이드13](https://github.com/user-attachments/assets/937e9ef2-ef0f-4520-84a2-d36ea1996e97)
+![슬라이드14](https://github.com/user-attachments/assets/9d9dc121-c089-4fa7-8021-fc88e071307b)
+![슬라이드15](https://github.com/user-attachments/assets/80f376bd-9820-42b7-91cc-eebf6eb9f4b3)
+![슬라이드16](https://github.com/user-attachments/assets/e5960daf-4037-4d65-b79b-c4ad3708d009)
+![슬라이드17](https://github.com/user-attachments/assets/63d62088-5fe0-4dcd-a692-302fba89c0fe)
+![슬라이드18](https://github.com/user-attachments/assets/51bd7bd8-7789-47f8-912a-cad7f4790beb)
+![슬라이드19](https://github.com/user-attachments/assets/f7859234-ca9b-4050-a863-3fc49ecb9e69)
+![슬라이드20](https://github.com/user-attachments/assets/38afdb9c-9652-4448-8ebd-ba96568cd21f)
+![슬라이드21](https://github.com/user-attachments/assets/7eb5be4b-868b-4749-8cf1-397a4d5158cd)
+![슬라이드22](https://github.com/user-attachments/assets/d97d4a2b-1c1c-4079-a8dc-21c7b9f53217)
 
-## 기능 및 공통 관심사
-![10](https://github.com/user-attachments/assets/e4a8444e-12eb-48c7-8fad-e81d887e6ced)
-
-![11](https://github.com/user-attachments/assets/1c989745-76cd-439d-8b22-2dc8adbd6168)
-
-![12](https://github.com/user-attachments/assets/65095088-d276-4631-9866-f4164e25dd16)
-
-## 트러블 슈팅
-![14](https://github.com/user-attachments/assets/60bfa65b-ff22-4d54-bf4a-abd45abc2b3c)
-
-![15](https://github.com/user-attachments/assets/3ae00cd9-a8d7-4fc8-a1a0-17a9ae3cbe59)
-
-![16](https://github.com/user-attachments/assets/74b231b3-0701-4a95-8ff0-668688733c43)
-
-![17](https://github.com/user-attachments/assets/1ead3f77-7c83-4ac7-a777-65c590543e67)
-
-![18](https://github.com/user-attachments/assets/42d0da14-f387-4633-9607-5e66b5f7a74b)
-
-![19](https://github.com/user-attachments/assets/f65ce0f2-ff38-449f-8992-a2b3af717057)
-
-![20](https://github.com/user-attachments/assets/4839c3a0-d31a-44c9-85bd-de8ffecbdef2)
-
-## 추후 개선 계획
-![22](https://github.com/user-attachments/assets/3bed4842-620c-44e9-816d-66a93e904da0)
-
-![23](https://github.com/user-attachments/assets/88a41942-88d4-4125-a4d7-0f70150e379b)
