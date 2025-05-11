@@ -9,7 +9,7 @@
 - AI를 활용하여 최적의 발송 시한을 예측하고, 슬랙을 통해 허브 담당자에게 실시간 알림을 제공합니다.  
 
 ## 프로젝트 소개
-![슬라이드3](https://github.com/user-attachments/assets/830a5de5-8b7b-4a69-9f68-0a81fd7e2596)
+![슬라이드3](https://github.com/user-attachments/assets/830a5de5-8b7b-4a69-9f68-0a81fd7e2596)  
 ![슬라이드4](https://github.com/user-attachments/assets/d0732793-1c2c-40cf-b3e6-f4cbe02ac484)
 ![슬라이드5](https://github.com/user-attachments/assets/74ab37bd-361a-44b3-b5b2-74a7698c66d6)
 ![슬라이드6](https://github.com/user-attachments/assets/c2e754dd-35f9-4589-bffd-09357504b117)
